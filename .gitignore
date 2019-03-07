@@ -1,0 +1,4 @@
+# Data files
+./mattermost/data/mattermost-data
+./mattermost/data/mysql
+./mattermost/data/config/config.json
